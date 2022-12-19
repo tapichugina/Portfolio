@@ -13,9 +13,9 @@ Please see the details of scraping and cleaning data from the table [link](https
 
 
 ## Tableau Dashboard
-The dashboard presented (here)[https://public.tableau.com/app/profile/tatyana.pichugina/viz/Listofbestemployers/Dashboard1?publish=yes] 
+The dashboard presented [here](https://public.tableau.com/app/profile/tatyana.pichugina/viz/Listofbestemployers/Dashboard1?publish=yes) 
 
-![This is an image](img/Tableau Dashboard.png)
+![dashboard](img/Tableau Dashboard.png)
 
 ## Insights
 * Companies from America's best employeers list are big and mature, they generally have over 20K employees and older than 50 years. The exceptions from the trend are companies from Education industry that have less than 10K employees and companies from  IT and Media industries that are less than 50 years old.
