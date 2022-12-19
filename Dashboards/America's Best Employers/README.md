@@ -1,7 +1,7 @@
 # America's best companies across industry
 
 ## Purporse
-The purporse of this analysis was to gain insights about different industries in the USA from the companies that cares about their employeers.
+The purporse of this analysis was to gain insights about different industries in the USA from the companies that care about their employeers.
 
 ## Data source
 Forbes partnered with Statista in 2022 surveyed 70,000 Americans working for businesses with at least 500 employees. Surveys were conducted anonymously, allowing participants to freely share their opinions.The final list included the 1,382 employers that received the most recommendations across 24 industries with 49M employees in total.
@@ -23,4 +23,4 @@ The dashboard presented [here](https://public.tableau.com/app/profile/tatyana.pi
     - Govenment Service companies are oldest (average age is 150 years) and biggest (average size 80K) in comparison with other industries
     - Retail & Wholesale companies are one of the biggest (over 80K employees), however, they are relatively young (less than 80 years)
     - Health care companies are relatively small (around 20K) and relatively young (around 80 years)
-* The companies for particular industries have a preferred location within the USA. For example, companies from Construction, Oil & Gas operation are clustered in Texas state area, 8 companies in Texas vs 1-2 in other states. Companies from the Automative industry clustered in Michigan state area.
+* The companies of particular industries have a preferred location within the USA. For example, companies from Construction, Oil & Gas operation are clustered in Texas: 8 companies in Texas vs 1-2 in other states. Companies from the Automative industry are clustered in Michigan.
