@@ -4,7 +4,7 @@
 The purporse of this analysis was to gain insights about different industries in the USA from the companies that cares about their employeers.
 
 ## Data source
-Forbes partnered with Statista surveyed 70,000 Americans working for businesses with at least 500 employees. Surveys were conducted anonymously, allowing participants to freely share their opinions.The final list included the 1,382 employers that received the most recommendations across 24 industries with 49M employees in total.
+Forbes partnered with Statista in 2022 surveyed 70,000 Americans working for businesses with at least 500 employees. Surveys were conducted anonymously, allowing participants to freely share their opinions.The final list included the 1,382 employers that received the most recommendations across 24 industries with 49M employees in total.
 [Forbes link](https://www.forbes.com/lists/best-employers-by-state/?sh=3e238cd71983) <br>
 
 
@@ -13,9 +13,9 @@ Please see the details of scraping and cleaning data from the table [link](https
 
 
 ## Tableau Dashboard
-The dashboard presented (here)[https://public.tableau.com/app/profile/tatyana.pichugina/viz/Listofbestemployers/Dashboard1?publish=yes] 
+The dashboard presented [here](https://public.tableau.com/app/profile/tatyana.pichugina/viz/Listofbestemployers/Dashboard1?publish=yes) 
 
-![This is an image](/img/Tableau Dashboard.png)
+![dashboard](img/Dashboard.png)
 
 ## Insights
 * Companies from America's best employeers list are big and mature, they generally have over 20K employees and older than 50 years. The exceptions from the trend are companies from Education industry that have less than 10K employees and companies from  IT and Media industries that are less than 50 years old.
