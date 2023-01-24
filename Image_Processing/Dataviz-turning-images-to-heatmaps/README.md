@@ -8,4 +8,4 @@ Below is an example. Sample image was taken from pixabay [image link](https://pi
 
 Read more on medium [link](https://medium.com/@ttatyana.pichugina/turning-images-into-heatmaps-a703ce545755)
 
-![This is an image](/Spectral.png)
+![This is an image](Spectral.png)
